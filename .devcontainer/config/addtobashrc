@@ -1,0 +1,2 @@
+export STARSHIP_CONFIG=/workspaces/fpgatemplate/.devcontainer/config/starship.toml
+eval "$(starship init bash)"
